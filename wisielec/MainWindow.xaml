@@ -1,0 +1,20 @@
+﻿<Window x:Class="wisielec.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wisielec"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid Name="wprowadzenie" Visibility="Visible">
+            <TextBox Name="wprowadzenieHasła" TextAlignment="Center" Width="200" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center" Margin=" 0 0 0 0">Wprowadz hasło</TextBox>
+            <Button Name="wprowadzSłowo" Click="WprowadzSłowo_OnClick" Width="150" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center" Margin=" 15 60 0 0">Zatwierdz</Button>
+        </Grid>
+        <Grid Name="gra" Visibility="Hidden">
+            <TextBlock Name="hasło" Width="200" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center" Margin=" 0 0 0 60"></TextBlock>
+            <TextBox Name="litera" Width="200" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center">Wprowadz Literę</TextBox>
+            <Button Name="wprowadzLitere" Click="WprowadzLitere_OnClick" Width="200" Height="25" VerticalAlignment="Center" HorizontalAlignment="Center" Margin=" 0 60 0 0">Zatwierdz litere</Button>
+        </Grid>
+    </Grid>
+</Window>

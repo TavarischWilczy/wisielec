@@ -1,0 +1,16 @@
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\bin\Debug\wisielec.exe.config
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\bin\Debug\wisielec.exe
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\bin\Debug\wisielec.pdb
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.csproj.AssemblyReference.cache
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.csproj.SuggestedBindingRedirects.cache
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\MainWindow.g.cs
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\App.g.cs
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec_MarkupCompile.cache
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec_MarkupCompile.lref
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\MainWindow.baml
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.g.resources
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.Properties.Resources.resources
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.csproj.GenerateResource.cache
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.csproj.CoreCompileInputs.cache
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.exe
+C:\Users\3TP2\RiderProjects\wisielec\wisielec\obj\Debug\wisielec.pdb
